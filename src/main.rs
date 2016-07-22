@@ -5,4 +5,5 @@ fn main() {
     println!("and another!");
     println!("another");
     println!("yet more!");
+    println!("kilroy was here");
 }
